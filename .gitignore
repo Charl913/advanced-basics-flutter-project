@@ -67,3 +67,8 @@ lib/generated_plugin_registrant.dart
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter
 pubspec.lock
+<<<<<<< HEAD
+=======
+pubspec.lock
+pubspec.lock
+>>>>>>> a6b6fefa9f7c0c7bbb8feecd2f1e3172b905c43c
